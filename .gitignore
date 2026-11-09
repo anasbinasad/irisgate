@@ -1,0 +1,13 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+*.mlmodel
+*.mlpackage/
+*.mlmodelc/
+*.dmg
+*.app/
+*.provisionprofile
+*.key
+*.p12
+.env*
